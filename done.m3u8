@@ -1,6 +1,3 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:60
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:60.000000,
-index.ts
-#EXT-X-ENDLIST
+#EXTINF:0,Bridge HITS
+https://cdn-lb.iptv2022.com/p/yVrv0lsl85BGW1W-Y4E5iw,1692267934/streaming/br_dance/324/5/tracks-a1/playlist.m3u8
