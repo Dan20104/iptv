@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:0,Bridge HITS
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=737777
 https://cdn-lb.iptv2022.com/p/yVrv0lsl85BGW1W-Y4E5iw,1692267934/streaming/br_dance/324/5/tracks-a1/playlist.m3u8
