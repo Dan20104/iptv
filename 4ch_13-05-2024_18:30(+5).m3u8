@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1,0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://a787200764-rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/playlist.m3u8?offset=-86185&profile=web_auto&utcstart=1715605200
