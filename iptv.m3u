@@ -1,40 +1,48 @@
 #EXTM3U
 #EXTINF:0,СТС
-https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+http://31.148.48.15/STS/index.m3u8
 #EXTINF:0,МУЗ-ТВ
-https://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:0,BY TV
 http://rtmp.one.by:2300
 #EXTINF:0,ОТР
-rtmp://vkvsd33.mycdn.me/playback/3823059479371?stkn=mGG2PFWxETmv3ihMVuDCN1MdEPo5w1s3AEIMQJ4B9Lo&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:0,Россия К
 https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:0,МАТЧ!
-https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:0,Первый канал
-https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:0,Россия 1
 https://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:0,НТВ
 https://cdn.ntv.ru/ntv2_sd/index.m3u8
 #EXTINF:0,Пятый канал
-https://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:0,РЕН ТВ
-https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:0,Россия-24
 https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:0,Карусель
-http://176.222.190.76/btv/SWM/Karusel/Karusel.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:0,Мир
-https://okkotv-live.cdnvideo.ru/channel/Mir_OTT.m3u8
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0,ТНТ
-https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:0,Пятница! 
-https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD.m3u8
+rtmp://vkvsd45.mycdn.me/playback/6540082424698?stkn=h3OjR8BI_DO922xxw0RFTjvAtEEHU0thdr2eR9-_qa8&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,ТВ-3
-https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:0,ЗВЕЗДА
-https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD.m3u8
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:0,Сарафан
 http://31.148.48.15/Sarafan/index.m3u8
 #EXTINF:0,ТВ Центр
@@ -42,11 +50,13 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:0,Спас
 https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:0,Домашний
-https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:0,2х2
-https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:0,Дом кино
-http://176.222.190.76/btv/SWM/Dom_Kino/Dom_Kino.m3u8
+http://31.148.48.15/Dom_Kino/index.m3u8
 #EXTINF:0,TV1000
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:0,TV1000 Action
