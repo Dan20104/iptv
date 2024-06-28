@@ -57,18 +57,18 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:0,Дом кино
 http://31.148.48.15/Dom_Kino/index.m3u8
-#EXTINF:0,TV1000
-https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-#EXTINF:0,TV1000 Action
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:0,TV1000 Русское кино
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:0,viju TV1000
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/132/index.m3u8
+#EXTINF:0,viju TV1000 Action
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/131/index.m3u8
+#EXTINF:0,viju TV1000 Русское
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/101/index.m3u8
 #EXTINF:0,Кино ТВ
 http://31.148.48.15/Kino_TV/index.m3u8
 #EXTINF:0,HOLLYWOOD HD
 https://edge05.beetv.kz/btv/SWM/Hollywood/Hollywood.m3u8
 #EXTINF:0,ТНТ4
-https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/104/index.m3u8
 #EXTINF:0,Че!
 https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
 #EXTINF:0,Ю
@@ -96,7 +96,7 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:0,КВН ТВ
 http://31.148.48.15/KVN_TV/playlist.m3u8
 #EXTINF:0,Europa Plus TV
-http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/115/index.m3u8
 #EXTINF:0,ТНТ Music
 http://31.148.48.15/TNT_Music/playlist.m3u8
 #EXTINF:0,Bridge TV
@@ -110,7 +110,7 @@ https://icchls.wns.live/hls/stream.m3u8
 #EXTINF:0,Новое радио
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:0,Bridge TV Русский Хит
-http://5.153.190.251:8000/play/a00g
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/120/index.m3u8
 #EXTINF:0,Европа Плюс (эфир из студии)
 rtmp://vkvsd77.mycdn.me/playback/2221868002241?stkn=MN6RYMhBolUGxllXrF17m_D1DRNyPJxIJnN1rVxmreo&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,DFM
@@ -120,7 +120,7 @@ rtmp://vkvsd11.mycdn.me/playback/3515394894699?stkn=MEFIOlUDs-0RiDrAXXVMOoMhrSAu
 #EXTINF:0,NRJ
 rtmp://vkvsd5.mycdn.me/playback/4350075218790?stkn=_O79Lk-mJX0PYnePZJ-rY3s82tNHuw20AnVHb1z_y8E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,Record
-https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8
+rtmp://vkvsd87.mycdn.me/playback/4624079530843?stkn=yUV0XgaBTk3hMzUwOJ5mUMeU-xOfVR6wkvWUeQfQmC4
 #EXTINF:0,Авторадио
 rtmp://vkvsd58.mycdn.me/playback/2291172715460?stkn=2qsA0edRlgDs6G9DyePGzSoU-2oPOXD-xd27RwZ3Xzg&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,Bolt HD
@@ -140,7 +140,7 @@ http://176.222.190.76/btv/SWM/HCT/HCT.m3u8
 #EXTINF:0,Моя планета
 http://hlstv.kem.211.ru/239.211.211.2/stream.m3u8
 #EXTINF:0,СТС Love
-https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/103/index.m3u8
 #EXTINF:0,Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/1661
 #EXTINF:0,Дума ТВ
@@ -175,14 +175,6 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/102/index.m3u8
 #EXTINF:0,Время
 http://176.222.190.76/btv/SWM/Vremya/Vremya.m3u8
-#EXTINF:0,Радио Запруд (Пермь)
-https://cdn.wasd.tv/live/1696191/index.m3u8
-#EXTINF:0,Lo-Fi Music
-https://cdn.wasd.tv/live/1328329/index.m3u8
-#EXTINF:0,ТНН Чайковский
-https://cdn.wasd.tv/live/1700457/index.m3u8
-#EXTINF:0,ТНН Чайковский (Резерв)
-https://mow-8-ll.facecast.io:8443/hls_re/317ab42837049a80e6a4.m3u8
 #EXTINF:0,Русский иллюзион
 https://sc.id-tv.kz/RusIlluzion_36_37.m3u8
 #EXTINF:0,Иллюзион+
@@ -205,8 +197,6 @@ http://176.222.190.76/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
 https://online-video.rbc.ru/online/rbctv.m3u8
 #EXTINF:0,РБК HD
 https://online-video.rbc.ru/online/rbctvhd.m3u8
-#EXTINF:0,СТВ
-https://dan20104.github.io/stv/index.m3u8
 #EXTINF:0,4 канал (Екатеринбург)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/variant.m3u8
