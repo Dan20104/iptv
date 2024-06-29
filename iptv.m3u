@@ -20,7 +20,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:0,Россия 1
 https://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:0,НТВ
-https://cdn.ntv.ru/ntv2_sd/index.m3u8
+https://cdn.ntv.ru/ntv0_hd/index.m3u8
 #EXTINF:0,Пятый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
@@ -70,29 +70,30 @@ https://edge05.beetv.kz/btv/SWM/Hollywood/Hollywood.m3u8
 #EXTINF:0,ТНТ4
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/104/index.m3u8
 #EXTINF:0,Че!
-https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:0,Ю
-https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:0,Солнце
-https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
+https://tv.mediacdn.ru/live/disney/playlist.m3u8
 #EXTINF:0,Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:0,Суббота!
 http://31.148.48.15/Super/playlist.m3u8
-#EXTINF:0,Disney XD
-https://cdn.wasd.tv/live/1684244/index.m3u8
 #EXTINF:0,Москва Доверие
-https://livehlsvgtrkrf.cdnvideo.ru/hls/doverie/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:0,360
 https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:0,Шансон (Москва)
 https://chanson-video.hostingradio.ru/hls/chansonabr/live.m3u8
 #EXTINF:0,Мульт
-http://176.222.190.76/btv/SWM/SWM_Mult/SWM_Mult.m3u8
+http://31.148.48.15/Mult/index.m3u8
 #EXTINF:0,Viju Nature
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
-#EXTINF:0,Viasat Explore HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
+#EXTINF:0,viju Explore HD
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 #EXTINF:0,КВН ТВ
 http://31.148.48.15/KVN_TV/playlist.m3u8
 #EXTINF:0,Europa Plus TV
@@ -102,8 +103,6 @@ http://31.148.48.15/TNT_Music/playlist.m3u8
 #EXTINF:0,Bridge TV
 http://31.148.48.15/Bridge_TV/playlist.m3u8
 #EXTINF:0,Перец International (Беларусь)
-http://37.17.14.147:8909/play/a00s
-#EXTINF:0,Перец International (Беларусь) (Резерв)
 http://178.124.179.122:8088/Peretz/index.m3u8
 #EXTINF:0,ICC TV (Иран)
 https://icchls.wns.live/hls/stream.m3u8
@@ -124,7 +123,7 @@ rtmp://vkvsd87.mycdn.me/playback/4624079530843?stkn=yUV0XgaBTk3hMzUwOJ5mUMeU-xOf
 #EXTINF:0,Авторадио
 rtmp://vkvsd58.mycdn.me/playback/2291172715460?stkn=2qsA0edRlgDs6G9DyePGzSoU-2oPOXD-xd27RwZ3Xzg&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,Bolt HD
-http://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 #EXTINF:0,Bridge Classic
 http://hlstv.kem.211.ru/239.211.211.21/stream.m3u8
 #EXTINF:0,Bridge Hits
@@ -200,3 +199,9 @@ https://online-video.rbc.ru/online/rbctvhd.m3u8
 #EXTINF:0,4 канал (Екатеринбург)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/variant.m3u8
+#EXTINF:0,Смотрим: Тайны
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
+#EXTINF:0,Смотрим: Честный детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:0,Смотрим: Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
