@@ -30,8 +30,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:0,Россия-24
 https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:0,Карусель
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/61126
 #EXTINF:0,Мир
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0,ТНТ
@@ -66,7 +65,7 @@ http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/101/index.m3u8
 #EXTINF:0,Кино ТВ
 http://31.148.48.15/Kino_TV/index.m3u8
 #EXTINF:0,HOLLYWOOD HD
-https://edge05.beetv.kz/btv/SWM/Hollywood/Hollywood.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 #EXTINF:0,ТНТ4
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/104/index.m3u8
 #EXTINF:0,Че!
@@ -135,9 +134,9 @@ https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 #EXTINF:0,Bridge Deluxe
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
 #EXTINF:0,НСТ
-http://176.222.190.76/btv/SWM/HCT/HCT.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 #EXTINF:0,Моя планета
-http://hlstv.kem.211.ru/239.211.211.2/stream.m3u8
+http://109.239.208.82/myplanet/index.m3u8
 #EXTINF:0,СТС Love
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/103/index.m3u8
 #EXTINF:0,Москва 24
@@ -209,3 +208,5 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
 #EXTINF:0,Кинокомедия
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/145/index.m3u8
+#EXTINF:0,NickToons HD
+rtmp://vkvsd165.mycdn.me/playback/6807618137081?stkn=Gu3_lm4VkKljpl5npE0SFbR026wjPoBd8TgCI6o_D7M
