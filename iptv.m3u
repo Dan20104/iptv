@@ -39,6 +39,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:0,Пятница!
 rtmp://vkvsd45.mycdn.me/playback/6540082424698?stkn=h3OjR8BI_DO922xxw0RFTjvAtEEHU0thdr2eR9-_qa8
 #EXTINF:0,ТВ-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:0,ЗВЕЗДА
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
