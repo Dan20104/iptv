@@ -145,9 +145,9 @@ https://player.smotrim.ru/iframe/stream/live_id/1661
 #EXTINF:0,Дума ТВ
 https://dumatv.iptv2022.com/index.m3u8
 #EXTINF:0,СТС Kids
-https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 #EXTINF:0,Start Air
-https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
+http://92.242.110.52:9835/udp/238.1.7.28:1234
 #EXTINF:0,Start World
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
 #EXTINF:0,Мультиландия
@@ -161,7 +161,7 @@ http://37.29.23.129:4000/play/a03m
 #EXTINF:0,Русский бестселлер
 http://37.29.23.129:4000/play/a03o
 #EXTINF:0,Русский детектив
-http://37.29.23.129:4000/play/a03n
+http://92.242.110.52:9835/udp/238.1.7.1:1234
 #EXTINF:0,TV XXI
 http://31.148.48.15/TV_XXI/index.m3u8
 #EXTINF:0,RELAX (Звуки природы)
