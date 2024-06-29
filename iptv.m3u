@@ -1,309 +1,211 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="СТС" group-title="Без группы", СТС
-#EXTGRP:Без группы
+#EXTINF:0,СТС
 http://31.148.48.15/STS/index.m3u8
-#EXTINF:-1 tvg-name="МУЗ-ТВ" group-title="Без группы", МУЗ-ТВ
-#EXTGRP:Без группы
+#EXTINF:0,МУЗ-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 tvg-name="Первый музыкальный HD" tvg-logo="https://app.playlistbox.com/icon/lRXp9zJO7B0WeZ1Vkyo68y35DwQnGrjA.png" group-title="Без группы", Первый музыкальный HD
-#EXTGRP:Без группы
+#EXTINF:0,Первый музыкальный HD
 http://rtmp.one.by:2300
-#EXTINF:-1 tvg-name="ОТР" group-title="Без группы", ОТР
-#EXTGRP:Без группы
+#EXTINF:0,ОТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 tvg-name="Россия К" group-title="Без группы", Россия К
-#EXTGRP:Без группы
+#EXTINF:0,Россия К
 https://player.smotrim.ru/iframe/stream/live_id/19201
-#EXTINF:-1 tvg-name="МАТЧ!" group-title="Без группы", МАТЧ!
-#EXTGRP:Без группы
+#EXTINF:0,МАТЧ!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 tvg-name="Первый канал" group-title="Без группы", Первый канал
-#EXTGRP:Без группы
+#EXTINF:0,Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 tvg-name="Россия 1" group-title="Без группы", Россия 1
-#EXTGRP:Без группы
+#EXTINF:0,Россия 1
 https://player.smotrim.ru/iframe/stream/live_id/2961
-#EXTINF:-1 tvg-name="НТВ" group-title="Без группы", НТВ
-#EXTGRP:Без группы
+#EXTINF:0,НТВ
 https://cdn.ntv.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 tvg-name="Пятый канал" group-title="Без группы", Пятый канал
-#EXTGRP:Без группы
+#EXTINF:0,Пятый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 tvg-name="РЕН ТВ" group-title="Без группы", РЕН ТВ
-#EXTGRP:Без группы
+#EXTINF:0,РЕН ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 tvg-name="Россия-24" group-title="Без группы", Россия-24
-#EXTGRP:Без группы
+#EXTINF:0,Россия-24
 https://player.smotrim.ru/iframe/stream/live_id/21
-#EXTINF:-1 tvg-name="Карусель" group-title="Без группы", Карусель
-#EXTGRP:Без группы
+#EXTINF:0,Карусель
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 tvg-name="Мир" group-title="Без группы", Мир
-#EXTGRP:Без группы
+#EXTINF:0,Мир
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-name="ТНТ" group-title="Без группы", ТНТ
-#EXTGRP:Без группы
+#EXTINF:0,ТНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 tvg-name="Пятница!" group-title="Без группы", Пятница!
-#EXTGRP:Без группы
-rtmp://vkvsd45.mycdn.me/playback/6540082424698?stkn=h3OjR8BI_DO922xxw0RFTjvAtEEHU0thdr2eR9-_qa8&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-name="ТВ-3" group-title="Без группы", ТВ-3
-#EXTGRP:Без группы
+#EXTINF:0,Пятница!
+rtmp://vkvsd45.mycdn.me/playback/6540082424698?stkn=h3OjR8BI_DO922xxw0RFTjvAtEEHU0thdr2eR9-_qa8
+#EXTINF:0,ТВ-3
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 tvg-name="ЗВЕЗДА" group-title="Без группы", ЗВЕЗДА
-#EXTGRP:Без группы
+#EXTINF:0,ЗВЕЗДА
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 tvg-name="Сарафан" group-title="Без группы", Сарафан
-#EXTGRP:Без группы
+#EXTINF:0,Сарафан
 http://31.148.48.15/Sarafan/index.m3u8
-#EXTINF:-1 tvg-name="ТВ Центр" group-title="Без группы", ТВ Центр
-#EXTGRP:Без группы
+#EXTINF:0,ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Спас" group-title="Без группы", Спас
-#EXTGRP:Без группы
+#EXTINF:0,Спас
 https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 tvg-name="Домашний" group-title="Без группы", Домашний
-#EXTGRP:Без группы
+#EXTINF:0,Домашний
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 tvg-name="2х2" group-title="Без группы", 2х2
-#EXTGRP:Без группы
+#EXTINF:0,2х2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 tvg-name="Дом кино" group-title="Без группы", Дом кино
-#EXTGRP:Без группы
+#EXTINF:0,Дом кино
 http://31.148.48.15/Dom_Kino/index.m3u8
-#EXTINF:-1 tvg-name="viju TV1000" group-title="Без группы", viju TV1000
-#EXTGRP:Без группы
+#EXTINF:0,viju TV1000
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/132/index.m3u8
-#EXTINF:-1 tvg-name="viju TV1000 Action" group-title="Без группы", viju TV1000 Action
-#EXTGRP:Без группы
+#EXTINF:0,viju TV1000 Action
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/131/index.m3u8
-#EXTINF:-1 tvg-name="viju TV1000 Русское" group-title="Без группы", viju TV1000 Русское
-#EXTGRP:Без группы
+#EXTINF:0,viju TV1000 Русское
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/101/index.m3u8
-#EXTINF:-1 tvg-name="Кино ТВ" group-title="Без группы", Кино ТВ
-#EXTGRP:Без группы
+#EXTINF:0,Кино ТВ
 http://31.148.48.15/Kino_TV/index.m3u8
-#EXTINF:-1 tvg-name="HOLLYWOOD HD" group-title="Без группы", HOLLYWOOD HD
-#EXTGRP:Без группы
+#EXTINF:0,HOLLYWOOD HD
 https://edge05.beetv.kz/btv/SWM/Hollywood/Hollywood.m3u8
-#EXTINF:-1 tvg-name="ТНТ4" group-title="Без группы", ТНТ4
-#EXTGRP:Без группы
+#EXTINF:0,ТНТ4
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/104/index.m3u8
-#EXTINF:-1 tvg-name="Че!" group-title="Без группы", Че!
-#EXTGRP:Без группы
+#EXTINF:0,Че!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 tvg-name="Ю" group-title="Без группы", Ю
-#EXTGRP:Без группы
+#EXTINF:0,Ю
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:-1 tvg-name="Солнце" group-title="Без группы", Солнце
-#EXTGRP:Без группы
+#EXTINF:0,Солнце
 https://tv.mediacdn.ru/live/disney/playlist.m3u8
-#EXTINF:-1 tvg-name="Известия" group-title="Без группы", Известия
-#EXTGRP:Без группы
+#EXTINF:0,Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 tvg-name="Суббота!" group-title="Без группы", Суббота!
-#EXTGRP:Без группы
+#EXTINF:0,Суббота!
 http://31.148.48.15/Super/playlist.m3u8
-#EXTINF:-1 tvg-name="Москва Доверие" group-title="Без группы", Москва Доверие
-#EXTGRP:Без группы
+#EXTINF:0,Москва Доверие
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:-1 tvg-name="360" group-title="Без группы", 360
-#EXTGRP:Без группы
+#EXTINF:0,360
 https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:-1 tvg-name="Шансон (Москва)" group-title="Без группы", Шансон (Москва)
-#EXTGRP:Без группы
+#EXTINF:0,Шансон (Москва)
 https://chanson-video.hostingradio.ru/hls/chansonabr/live.m3u8
-#EXTINF:-1 tvg-name="Мульт" group-title="Без группы", Мульт
-#EXTGRP:Без группы
+#EXTINF:0,Мульт
 http://31.148.48.15/Mult/index.m3u8
-#EXTINF:-1 tvg-name="Viju Nature" group-title="Без группы", Viju Nature
-#EXTGRP:Без группы
+#EXTINF:0,Viju Nature
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
-#EXTINF:-1 tvg-name="viju Explore HD" group-title="Без группы", viju Explore HD
-#EXTGRP:Без группы
+#EXTINF:0,viju Explore HD
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/163/index.m3u8
-#EXTINF:-1 tvg-name="КВН ТВ" group-title="Без группы", КВН ТВ
-#EXTGRP:Без группы
+#EXTINF:0,КВН ТВ
 http://31.148.48.15/KVN_TV/playlist.m3u8
-#EXTINF:-1 tvg-name="Europa Plus TV" group-title="Без группы", Europa Plus TV
-#EXTGRP:Без группы
+#EXTINF:0,Europa Plus TV
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/115/index.m3u8
-#EXTINF:-1 tvg-name="ТНТ Music" group-title="Без группы", ТНТ Music
-#EXTGRP:Без группы
+#EXTINF:0,ТНТ Music
 http://31.148.48.15/TNT_Music/playlist.m3u8
-#EXTINF:-1 tvg-name="Bridge TV" group-title="Без группы", Bridge TV
-#EXTGRP:Без группы
+#EXTINF:0,Bridge TV
 http://31.148.48.15/Bridge_TV/playlist.m3u8
-#EXTINF:-1 tvg-name="Перец International (Беларусь)" group-title="Без группы", Перец International (Беларусь)
-#EXTGRP:Без группы
+#EXTINF:0,Перец International (Беларусь)
 http://178.124.179.122:8088/Peretz/index.m3u8
-#EXTINF:-1 tvg-name="ICC TV (Иран)" group-title="Без группы", ICC TV (Иран)
-#EXTGRP:Без группы
+#EXTINF:0,ICC TV (Иран)
 https://icchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Новое радио" group-title="Без группы", Новое радио
-#EXTGRP:Без группы
+#EXTINF:0,Новое радио
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Bridge TV Русский Хит" group-title="Без группы", Bridge TV Русский Хит
-#EXTGRP:Без группы
+#EXTINF:0,Bridge TV Русский Хит
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/120/index.m3u8
-#EXTINF:-1 tvg-name="Европа Плюс (эфир из студии)" group-title="Без группы", Европа Плюс (эфир из студии)
-#EXTGRP:Без группы
-rtmp://vkvsd77.mycdn.me/playback/2221868002241?stkn=MN6RYMhBolUGxllXrF17m_D1DRNyPJxIJnN1rVxmreo&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-name="DFM" group-title="Без группы", DFM
-#EXTGRP:Без группы
-rtmp://vkvsd21.mycdn.me/playback/2452302408603?stkn=4p1U4bv0_-G5EETr0MpKv89WBbResQI9C7iKZNhuK9U&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-name="Юмор FM" group-title="Без группы", Юмор FM
-#EXTGRP:Без группы
-rtmp://vkvsd11.mycdn.me/playback/3515394894699?stkn=MEFIOlUDs-0RiDrAXXVMOoMhrSAuipbvKnZNwv4y4PE&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-name="NRJ" group-title="Без группы", NRJ
-#EXTGRP:Без группы
-rtmp://vkvsd5.mycdn.me/playback/4350075218790?stkn=_O79Lk-mJX0PYnePZJ-rY3s82tNHuw20AnVHb1z_y8E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-name="Record" group-title="Без группы", Record
-#EXTGRP:Без группы
+#EXTINF:0,Европа Плюс (эфир из студии)
+rtmp://vkvsd77.mycdn.me/playback/2221868002241?stkn=MN6RYMhBolUGxllXrF17m_D1DRNyPJxIJnN1rVxmreo
+#EXTINF:0,DFM
+rtmp://vkvsd21.mycdn.me/playback/2452302408603?stkn=4p1U4bv0_-G5EETr0MpKv89WBbResQI9C7iKZNhuK9U
+#EXTINF:0,Юмор FM
+rtmp://vkvsd11.mycdn.me/playback/3515394894699?stkn=MEFIOlUDs-0RiDrAXXVMOoMhrSAuipbvKnZNwv4y4PE
+#EXTINF:0,NRJ
+rtmp://vkvsd5.mycdn.me/playback/4350075218790?stkn=_O79Lk-mJX0PYnePZJ-rY3s82tNHuw20AnVHb1z_y8E
+#EXTINF:0,Record
 rtmp://vkvsd87.mycdn.me/playback/4624079530843?stkn=yUV0XgaBTk3hMzUwOJ5mUMeU-xOfVR6wkvWUeQfQmC4
-#EXTINF:-1 tvg-name="Авторадио" group-title="Без группы", Авторадио
-#EXTGRP:Без группы
-rtmp://vkvsd58.mycdn.me/playback/2291172715460?stkn=2qsA0edRlgDs6G9DyePGzSoU-2oPOXD-xd27RwZ3Xzg&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-name="Bolt HD" group-title="Без группы", Bolt HD
-#EXTGRP:Без группы
+#EXTINF:0,Авторадио
+rtmp://vkvsd58.mycdn.me/playback/2291172715460?stkn=2qsA0edRlgDs6G9DyePGzSoU-2oPOXD-xd27RwZ3Xzg
+#EXTINF:0,Bolt HD
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
-#EXTINF:-1 tvg-name="Bridge Classic" group-title="Без группы", Bridge Classic
-#EXTGRP:Без группы
+#EXTINF:0,Bridge Classic
 https://stream01.vnet.am/BRIDGETVClassic/index.m3u8
-#EXTINF:-1 tvg-name="Bridge Hits" group-title="Без группы", Bridge Hits
-#EXTGRP:Без группы
+#EXTINF:0,Bridge Hits
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
-#EXTINF:-1 tvg-name="Bridge Шлягер" group-title="Без группы", Bridge Шлягер
-#EXTGRP:Без группы
+#EXTINF:0,Bridge Шлягер
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
-#EXTINF:-1 tvg-name="Bridge Rock" group-title="Без группы", Bridge Rock
-#EXTGRP:Без группы
+#EXTINF:0,Bridge Rock
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
-#EXTINF:-1 tvg-name="Bridge Deluxe" group-title="Без группы", Bridge Deluxe
-#EXTGRP:Без группы
+#EXTINF:0,Bridge Deluxe
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
-#EXTINF:-1 tvg-name="НСТ" group-title="Без группы", НСТ
-#EXTGRP:Без группы
+#EXTINF:0,НСТ
 http://176.222.190.76/btv/SWM/HCT/HCT.m3u8
-#EXTINF:-1 tvg-name="Моя планета" group-title="Без группы", Моя планета
-#EXTGRP:Без группы
+#EXTINF:0,Моя планета
 http://hlstv.kem.211.ru/239.211.211.2/stream.m3u8
-#EXTINF:-1 tvg-name="СТС Love" group-title="Без группы", СТС Love
-#EXTGRP:Без группы
+#EXTINF:0,СТС Love
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/103/index.m3u8
-#EXTINF:-1 tvg-name="Москва 24" group-title="Без группы", Москва 24
-#EXTGRP:Без группы
+#EXTINF:0,Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/1661
-#EXTINF:-1 tvg-name="Дума ТВ" group-title="Без группы", Дума ТВ
-#EXTGRP:Без группы
+#EXTINF:0,Дума ТВ
 https://dumatv.iptv2022.com/index.m3u8
-#EXTINF:-1 tvg-name="СТС Kids" group-title="Без группы", СТС Kids
-#EXTGRP:Без группы
+#EXTINF:0,СТС Kids
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
-#EXTINF:-1 tvg-name="Start Air" group-title="Без группы", Start Air
-#EXTGRP:Без группы
+#EXTINF:0,Start Air
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
-#EXTINF:-1 tvg-name="Start World" group-title="Без группы", Start World
-#EXTGRP:Без группы
+#EXTINF:0,Start World
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
-#EXTINF:-1 tvg-name="Мультиландия" group-title="Без группы", Мультиландия
-#EXTGRP:Без группы
+#EXTINF:0,Мультиландия
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
-#EXTINF:-1 tvg-name="Ani" group-title="Без группы", Ani
-#EXTGRP:Без группы
+#EXTINF:0,Ani
 http://31.148.48.15/Ani/index.m3u8
-#EXTINF:-1 tvg-name="Мосфильм. Золотая коллекция" group-title="Без группы", Мосфильм. Золотая коллекция
-#EXTGRP:Без группы
+#EXTINF:0,Мосфильм. Золотая коллекция
 http://176.222.190.76/btv/SWM/mosfilm/mosfilm.m3u8
-#EXTINF:-1 tvg-name="Русский роман HD" group-title="Без группы", Русский роман HD
-#EXTGRP:Без группы
+#EXTINF:0,Русский роман HD
 http://37.29.23.129:4000/play/a03m
-#EXTINF:-1 tvg-name="Русский бестселлер" group-title="Без группы", Русский бестселлер
-#EXTGRP:Без группы
+#EXTINF:0,Русский бестселлер
 http://37.29.23.129:4000/play/a03o
-#EXTINF:-1 tvg-name="Русский детектив" group-title="Без группы", Русский детектив
-#EXTGRP:Без группы
+#EXTINF:0,Русский детектив
 http://37.29.23.129:4000/play/a03n
-#EXTINF:-1 tvg-name="TV XXI" group-title="Без группы", TV XXI
-#EXTGRP:Без группы
+#EXTINF:0,TV XXI
 http://31.148.48.15/TV_XXI/index.m3u8
-#EXTINF:-1 tvg-name="RELAX (Звуки природы)" group-title="Без группы", RELAX (Звуки природы)
-#EXTGRP:Без группы
+#EXTINF:0,RELAX (Звуки природы)
 http://185.57.68.33:8091/232/index.m3u8
-#EXTINF:-1 tvg-name="Феникс+ Кино" group-title="Без группы", Феникс+ Кино
-#EXTGRP:Без группы
+#EXTINF:0,Феникс+ Кино
 https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD.m3u8
-#EXTINF:-1 tvg-name="Шансон ТВ" group-title="Без группы", Шансон ТВ
-#EXTGRP:Без группы
+#EXTINF:0,Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Ностальгия" group-title="Без группы", Ностальгия
-#EXTGRP:Без группы
+#EXTINF:0,Ностальгия
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/102/index.m3u8
-#EXTINF:-1 tvg-name="Время" group-title="Без группы", Время
-#EXTGRP:Без группы
+#EXTINF:0,Время
 http://176.222.190.76/btv/SWM/Vremya/Vremya.m3u8
-#EXTINF:-1 tvg-name="Русский иллюзион" group-title="Без группы", Русский иллюзион
-#EXTGRP:Без группы
+#EXTINF:0,Русский иллюзион
 https://sc.id-tv.kz/RusIlluzion_36_37.m3u8
-#EXTINF:-1 tvg-name="Иллюзион+" group-title="Без группы", Иллюзион+
-#EXTGRP:Без группы
+#EXTINF:0,Иллюзион+
 https://sc.id-tv.kz/IlluzionPlus_36_37.m3u8
-#EXTINF:-1 tvg-name="Усадьба" group-title="Без группы", Усадьба
-#EXTGRP:Без группы
+#EXTINF:0,Усадьба
 http://31.148.48.15/Usadba/index.m3u8
-#EXTINF:-1 tvg-name="Ретро" group-title="Без группы", Ретро
-#EXTGRP:Без группы
+#EXTINF:0,Ретро
 http://188.113.190.15/67/index.m3u8
-#EXTINF:-1 tvg-name="Охота и рыбалка" group-title="Без группы", Охота и рыбалка
-#EXTGRP:Без группы
+#EXTINF:0,Охота и рыбалка
 http://176.222.190.76/btv/icon/Ohota_i_rybalka/Ohota_i_rybalka.m3u8
-#EXTINF:-1 tvg-name="Драйв" group-title="Без группы", Драйв
-#EXTGRP:Без группы
+#EXTINF:0,Драйв
 http://109.197.192.121:8080/drive/index.m3u8
-#EXTINF:-1 tvg-name="Здоровое ТВ" group-title="Без группы", Здоровое ТВ
-#EXTGRP:Без группы
+#EXTINF:0,Здоровое ТВ
 http://176.222.190.76/btv/SWM/zdorovoe_tv/zdorovoe_tv.m3u8
-#EXTINF:-1 tvg-name="Живая планета" group-title="Без группы", Живая планета
-#EXTGRP:Без группы
+#EXTINF:0,Живая планета
 http://31.148.48.15/Zhivaya_Planeta/index.m3u8
-#EXTINF:-1 tvg-name="Техно 24" group-title="Без группы", Техно 24
-#EXTGRP:Без группы
+#EXTINF:0,Техно 24
 http://176.222.190.76/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
-#EXTINF:-1 tvg-name="РБК" group-title="Без группы", РБК
-#EXTGRP:Без группы
+#EXTINF:0,РБК
 https://online-video.rbc.ru/online/rbctv.m3u8
-#EXTINF:-1 tvg-name="РБК HD" group-title="Без группы", РБК HD
-#EXTGRP:Без группы
+#EXTINF:0,РБК HD
 https://online-video.rbc.ru/online/rbctvhd.m3u8
-#EXTINF:-1 tvg-name="4 канал (Екатеринбург)" group-title="Без группы", 4 канал (Екатеринбург)
-#EXTGRP:Без группы
+#EXTINF:0,4 канал (Екатеринбург)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/variant.m3u8
-#EXTINF:-1 tvg-name="Смотрим: Тайны" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/456/396/2.svg" group-title="Без группы", Смотрим: Тайны
-#EXTGRP:Без группы
+#EXTINF:0 tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/456/396/2.svg",Смотрим: Тайны
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Смотрим: Честный детектив" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" group-title="Без группы", Смотрим: Честный детектив
-#EXTGRP:Без группы
+#EXTINF:0 tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg",Смотрим: Честный детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Смотрим: Мелодрамы" tvg-logo="https://cdn-st1.smotrim.ru/vh/pictures/svg/456/967/6.svg" group-title="Без группы", Смотрим: Мелодрамы
-#EXTGRP:Без группы
+#EXTINF:0 tvg-logo="https://cdn-st1.smotrim.ru/vh/pictures/svg/456/967/6.svg",Смотрим: Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="RU.TV" group-title="Без группы", RU.TV
-#EXTGRP:Без группы
+#EXTINF:0,RU.TV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
-#EXTINF:-1 tvg-name="Кинокомедия" group-title="Без группы", Кинокомедия
-#EXTGRP:Без группы
+#EXTINF:0,Кинокомедия
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/145/index.m3u8
