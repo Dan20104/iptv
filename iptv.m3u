@@ -61,7 +61,7 @@ http://31.148.48.15/Sarafan/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:0,Дом кино
-http://31.148.48.15/Dom_Kino/index.m3u8
+https://streaming.goodstream.cyou/live/44.m3u8
 #EXTINF:0,viju TV1000
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/132/index.m3u8
 #EXTINF:0,viju TV1000 Action
@@ -141,6 +141,8 @@ https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 #EXTINF:0,Bridge Deluxe
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:0,СТС International
+http://eb4b8dcf.kablakaka.ru/iptv/56E8HVDHBARKLQ/15228/index.m3u8
 #EXTINF:0,НСТ
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 #EXTINF:0,Моя планета
@@ -155,6 +157,8 @@ https://dumatv.iptv2022.com/index.m3u8
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 #EXTINF:0,Start Air
 http://92.242.110.52:9835/udp/238.1.7.28:1234
+#EXTINF:0,Перец International
+https://stream01.vnet.am/Perec/index.m3u8
 #EXTINF:0,Start World
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
 #EXTINF:0,Мультиландия
