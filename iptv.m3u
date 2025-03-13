@@ -56,7 +56,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:0,Первый музыкальный HD
 http://rtmp.one.by:2300
 #EXTINF:0,Сарафан
-http://31.148.48.15/Sarafan/index.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/748/index.m3u8
 #EXTINF:0,2х2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
@@ -69,9 +69,9 @@ http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/131/index.m3u8
 #EXTINF:0,viju TV1000 Русское
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/101/index.m3u8
 #EXTINF:0,Кино ТВ
-http://31.148.48.15/Kino_TV/index.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/2097/index.m3u8
 #EXTINF:0,HOLLYWOOD HD
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/15228/index.m3u8
 #EXTINF:0,ТНТ4
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/104/index.m3u8
 #EXTINF:0,Че!
@@ -96,21 +96,19 @@ https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:0,Шансон (Москва)
 https://chanson-video.hostingradio.ru/hls/chansonabr/live.m3u8
 #EXTINF:0,Мульт
-http://31.148.48.15/Mult/index.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/240/index.m3u8
 #EXTINF:0,Viju Nature
-http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/161/index.m3u8
 #EXTINF:0,viju Explore HD
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/163/index.m3u8
 #EXTINF:0,КВН ТВ
-http://31.148.48.15/KVN_TV/playlist.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/546/index.m3u8
 #EXTINF:0,Europa Plus TV
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/115/index.m3u8
 #EXTINF:0,ТНТ Music
-http://31.148.48.15/TNT_Music/playlist.m3u8
+rtmp://vkvsd197.okcdn.ru/playback/7049778441136?stkn=ZTQTMHlpNWnqH2Palkkcpe_64V4oyTbu2V8VzAd-aoHPKx1oa4gEQnMq63ztMQkvn1feilVKD9k
 #EXTINF:0,Bridge TV
-http://31.148.48.15/Bridge_TV/playlist.m3u8
-#EXTINF:0,Перец International (Беларусь)
-http://178.124.179.122:8088/Peretz/index.m3u8
+https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 #EXTINF:0,ICC TV (Иран)
 https://icchls.wns.live/hls/stream.m3u8
 #EXTINF:0,Новое радио
@@ -130,79 +128,79 @@ rtmp://vkvsd87.mycdn.me/playback/4624079530843?stkn=yUV0XgaBTk3hMzUwOJ5mUMeU-xOf
 #EXTINF:0,Авторадио
 rtmp://vkvsd58.mycdn.me/playback/2291172715460?stkn=2qsA0edRlgDs6G9DyePGzSoU-2oPOXD-xd27RwZ3Xzg
 #EXTINF:0,Bolt HD
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/6322/index.m3u8
 #EXTINF:0,Bridge Classic
 https://stream01.vnet.am/BRIDGETVClassic/index.m3u8
 #EXTINF:0,Bridge Hits
-http://31.148.48.15/Bridge_TV_Dance/index.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/19227/index.m3u8
 #EXTINF:0,Bridge Шлягер
-https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/10038/index.m3u8
 #EXTINF:0,Bridge Rock
-https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/19225/index.m3u8
 #EXTINF:0,Bridge Deluxe
-https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/236/index.m3u8
 #EXTINF:0,СТС International
-http://eb4b8dcf.kablakaka.ru/iptv/56E8HVDHBARKLQ/15228/index.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/15228/index.m3u8
 #EXTINF:0,НСТ
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/726/index.m3u8
 #EXTINF:0,Моя планета
-http://109.239.208.82/myplanet/index.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/2090/index.m3u8
 #EXTINF:0,СТС Love
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/103/index.m3u8
 #EXTINF:0,Москва 24
-https://player.smotrim.ru/iframe/stream/live_id/1661
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/523/index.m3u8
 #EXTINF:0,Дума ТВ
 https://dumatv.iptv2022.com/index.m3u8
 #EXTINF:0,СТС Kids
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 #EXTINF:0,Start Air
-http://92.242.110.52:9835/udp/238.1.7.28:1234
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/18036/index.m3u8
 #EXTINF:0,Перец International
 https://stream01.vnet.am/Perec/index.m3u8
 #EXTINF:0,Start World
-https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/19248/index.m3u8
 #EXTINF:0,Мультиландия
-https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/5055/index.m3u8
 #EXTINF:0,Ani
-http://31.148.48.15/Ani/index.m3u8
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
-http://176.222.190.76/btv/SWM/mosfilm/mosfilm.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/7347/index.m3u8
 #EXTINF:0,Русский роман HD
-http://37.29.23.129:4000/play/a03m
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/2076/index.m3u8
 #EXTINF:0,Русский бестселлер
-http://37.29.23.129:4000/play/a03o
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/905/index.m3u8
 #EXTINF:0,Русский детектив
-http://92.242.110.52:9835/udp/238.1.7.1:1234
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/907/index.m3u8
 #EXTINF:0,TV XXI
-http://31.148.48.15/TV_XXI/index.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/525/index.m3u8
 #EXTINF:0,RELAX (Звуки природы)
 http://185.57.68.33:8091/232/index.m3u8
 #EXTINF:0,Феникс+ Кино
-https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/16154/index.m3u8
 #EXTINF:0,Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:0,Ностальгия
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/102/index.m3u8
 #EXTINF:0,Время
-http://176.222.190.76/btv/SWM/Vremya/Vremya.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/552/index.m3u8
 #EXTINF:0,Русский иллюзион
-https://sc.id-tv.kz/RusIlluzion_36_37.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/2114/index.m3u8
 #EXTINF:0,Иллюзион+
-https://sc.id-tv.kz/IlluzionPlus_36_37.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/9079/index.m3u8
 #EXTINF:0,Усадьба
-http://31.148.48.15/Usadba/index.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/532/index.m3u8
 #EXTINF:0,Ретро
-http://188.113.190.15/67/index.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/2018/index.m3u8
 #EXTINF:0,Охота и рыбалка
-http://176.222.190.76/btv/icon/Ohota_i_rybalka/Ohota_i_rybalka.m3u8
+http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
 #EXTINF:0,Драйв
-http://109.197.192.121:8080/drive/index.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/2021/index.m3u8
 #EXTINF:0,Здоровое ТВ
-http://176.222.190.76/btv/SWM/zdorovoe_tv/zdorovoe_tv.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/2022/index.m3u8
 #EXTINF:0,Живая планета
-http://31.148.48.15/Zhivaya_Planeta/index.m3u8
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/2101/index.m3u8
 #EXTINF:0,Техно 24
-http://176.222.190.76/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 #EXTINF:0,РБК
 https://online-video.rbc.ru/online/rbctv.m3u8
 #EXTINF:0,РБК HD
