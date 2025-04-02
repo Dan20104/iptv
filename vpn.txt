@@ -1,3 +1,4 @@
 vless://9148c48f-cb70-46ea-8ace-a3ba3f0eb9e9@82.202.138.242:443?security=reality&sni=ya.ru&fp=chrome&pbk=BDsZexfdUfq2bLWEcOwosGxAalAJfNkDf1zuR_jQEFk&sid=048c4d3252&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇷🇺%20Russia
 vless://22da734a-cc3b-c30c-df5c-2ec862b0d514@uk4.flowers-shop.buzz:443?security=reality&sni=uk.flowers-shop.buzz&fp=chrome&pbk=APIjsI6Nv_0IjKESQwFCj10rFOz1tmPclw4dtlVqeT0&type=tcp&flow=xtls-rprx-vision&encryption=none#🇬🇧%20Great%20Britain
 vless://86296ea2-7e62-4540-8532-713d34983acb@static.surlymertxe.click:443?security=reality&sni=ovationtix.com&fp=chrome&pbk=lV61-hfvoP5fCZlwyWVeitxMG4f6PYwpQdF8euz5ynI&sid=87c33adb1b99&type=tcp&flow=xtls-rprx-vision&encryption=none#🇩🇪%20Germany
+socks://45.140.43.77:18080#🇳🇱%20Netherlands
