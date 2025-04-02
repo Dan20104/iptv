@@ -5,3 +5,4 @@ socks://45.140.143.77:18080#🇳🇱%20Netherlands
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.72.43:8080?security=&type=ws&path=/test%3Dtrue&host=d1.hetzner.com&encryption=none#🇵🇱%20Poland
 vless://35d91fdf-f816-4b49-a7dd-d971ab4d8eed@portal.ninemakeda.cfd:443?security=reality&sni=boehringer-ingelheim.com&fp=chrome&pbk=fK6B49cBCfa71SxoPGNiVfLBpkY_4sCFI_UtcHVXSy4&sid=6efe9597ae05&type=tcp&flow=xtls-rprx-vision&encryption=none#🇨🇦%20Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd29IZnB2dWN6ekhPa09lYkdYaVVP@ip137.ip-87-98-242.eu:49551#🇫🇷%20France
+socks://98.152.200.61:8081#🇺🇸%20United%States
