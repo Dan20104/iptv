@@ -4,7 +4,7 @@ vless://86296ea2-7e62-4540-8532-713d34983acb@static.surlymertxe.click:443?securi
 socks://45.140.143.77:18080#🇳🇱%20Netherlands
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.72.43:8080?security=&type=ws&path=/test%3Dtrue&host=d1.hetzner.com&encryption=none#🇵🇱%20Poland
 vless://35d91fdf-f816-4b49-a7dd-d971ab4d8eed@portal.ninemakeda.cfd:443?security=reality&sni=boehringer-ingelheim.com&fp=chrome&pbk=fK6B49cBCfa71SxoPGNiVfLBpkY_4sCFI_UtcHVXSy4&sid=6efe9597ae05&type=tcp&flow=xtls-rprx-vision&encryption=none#🇨🇦%20Canada
-trojan://telegram-id-privatevpns@35.181.79.160:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#🇫🇷%20France
+trojan://telegram-id-privatevpns@ec2-35-181-79-160.eu-west-3.compute.amazonaws.com:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#🇫🇷%20France
 socks://98.152.200.61:8081#🇺🇸%20United%20States
 vless://cbb4251b-9b20-4c42-b09d-df77666bda12@static.108.183.217.95.clients.your-server.de:2087?security=reality&sni=www.target.com&fp=chrome&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&sid=bc6f0833&type=grpc&encryption=none#🇫🇮%20Finland
 socks://VU4xYzJSNHI6SGl1YWMzUEY%3D@194.55.102.157:64069#🇧🇾%20Belarus
