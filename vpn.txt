@@ -9,3 +9,4 @@ socks://98.152.200.61:8081#🇺🇸%20United%20States
 vless://cbb4251b-9b20-4c42-b09d-df77666bda12@static.108.183.217.95.clients.your-server.de:2087?security=reality&sni=www.target.com&fp=chrome&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&sid=bc6f0833&type=grpc&encryption=none#🇫🇮%20Finland
 socks://VU4xYzJSNHI6SGl1YWMzUEY%3D@194.55.102.157:64069#🇧🇾%20Belarus
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@176.103.53.105:989#🇺🇦%20Ukraine
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaHNrVzQ1SnpjM1loSmk0MTVPdVhV@38.107.235.239:58080#🇰🇿%20Kazakhstan
