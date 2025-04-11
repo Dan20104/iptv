@@ -8,6 +8,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:
 socks://98.152.200.61:8081#🇺🇸%20United%20States
 vless://cbb4251b-9b20-4c42-b09d-df77666bda12@static.108.183.217.95.clients.your-server.de:2087?security=reality&sni=www.target.com&fp=chrome&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&sid=bc6f0833&type=grpc&encryption=none#🇫🇮%20Finland
 socks://VU4xYzJSNHI6SGl1YWMzUEY%3D@194.55.102.157:64069#🇧🇾%20Belarus
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@platform.dash.cloudflare.com:80?security=&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2%20/?ed%3D2560&host=gozargah.validbv7996.ir&encryption=none#☁️%20Cloudflare
+vless://cloudflare@82.202.138.242:36367?security=reality&sni=cloudflare.com&fp=chrome&pbk=TNJdj4wI3KIikmUDfiNE04ZrWpGAHzl_J5Le-rixRhI&sid=dd&spx=/&type=tcp&encryption=none#☁️%20Cloudflare
 trojan://74260698218909400@85.234.83.133:443?security=tls&sni=smooth-imp.shiner427.skin&type=tcp#🇯🇵%20Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@151.236.206.42:39649#🇸🇪%20Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@151.236.206.42.c.fiberdirekt.net:39649#🇸🇪%20Sweden
