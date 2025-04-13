@@ -2,7 +2,7 @@ vless://9148c48f-cb70-46ea-8ace-a3ba3f0eb9e9@82.202.138.242:443?security=reality
 vless://22da734a-cc3b-c30c-df5c-2ec862b0d514@uk4.flowers-shop.buzz:443?security=reality&sni=uk.flowers-shop.buzz&fp=chrome&pbk=APIjsI6Nv_0IjKESQwFCj10rFOz1tmPclw4dtlVqeT0&type=tcp&flow=xtls-rprx-vision&encryption=none#🇬🇧%20Great%20Britain
 vless://86296ea2-7e62-4540-8532-713d34983acb@static.surlymertxe.click:443?security=reality&sni=ovationtix.com&fp=chrome&pbk=lV61-hfvoP5fCZlwyWVeitxMG4f6PYwpQdF8euz5ynI&sid=87c33adb1b99&type=tcp&flow=xtls-rprx-vision&encryption=none#🇩🇪%20Germany
 socks://45.140.143.77:18080#🇳🇱%20Netherlands
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@217.30.10.18:9014#Key Poland #1082 / ProxyType.com#🇵🇱%20Poland
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@217.30.10.18:9014#🇵🇱%20Poland
 vless://35d91fdf-f816-4b49-a7dd-d971ab4d8eed@portal.ninemakeda.cfd:443?security=reality&sni=boehringer-ingelheim.com&fp=chrome&pbk=fK6B49cBCfa71SxoPGNiVfLBpkY_4sCFI_UtcHVXSy4&sid=6efe9597ae05&type=tcp&flow=xtls-rprx-vision&encryption=none#🇨🇦%20Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#🇫🇷%20France
 socks://98.152.200.61:8081#🇺🇸%20United%20States
