@@ -5,7 +5,7 @@ socks://45.140.143.77:18080#🇳🇱%20Netherlands
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@217.30.10.18:9014#🇵🇱%20Poland
 vless://35d91fdf-f816-4b49-a7dd-d971ab4d8eed@portal.ninemakeda.cfd:443?security=reality&sni=boehringer-ingelheim.com&fp=chrome&pbk=fK6B49cBCfa71SxoPGNiVfLBpkY_4sCFI_UtcHVXSy4&sid=6efe9597ae05&type=tcp&flow=xtls-rprx-vision&encryption=none#🇨🇦%20Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#🇫🇷%20France
-socks://98.152.200.61:8081#🇺🇸%20United%20States
+trojan://bpb-trojan@162.159.152.2:443?security=tls&sni=zamim340.ggff.net&allowInsecure=1&type=ws&path=/tr?ed%3D2560&host=zamim340.ggff.net#🇺🇸%20United%20States
 vless://cbb4251b-9b20-4c42-b09d-df77666bda12@static.108.183.217.95.clients.your-server.de:2087?security=reality&sni=www.target.com&fp=chrome&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&sid=bc6f0833&type=grpc&encryption=none#🇫🇮%20Finland
 socks://VU4xYzJSNHI6SGl1YWMzUEY%3D@194.55.102.157:64069#🇧🇾%20Belarus
 vless://cloudflare@82.202.138.242:36367?security=reality&sni=cloudflare.com&fp=chrome&pbk=9ztPFq70K3aBy1A8zgRWSapRzHg1xsV8jO5wkQW6UHU&sid=0485&spx=/&type=tcp&encryption=none#☁️%20Cloudflare
