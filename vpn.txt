@@ -12,3 +12,4 @@ trojan://74260698218909400@smooth-imp.shiner427.skin:443?security=tls&sni=smooth
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5NmZneUMyOGhzY21kd3FYajJ2MEZt@62.60.152.158:37618#🇸🇪%20Sweden
 trojan://installshield@38.180.249.177:8443?security=tls&allowInsecure=1&type=tcp#🇸🇬%20Singapore
 socks://bW9kZWxlcl9HU3d4cXg6V0VES3B6bTlncUlj@46.30.189.50:24594#🇦🇺%20Australia
+socks5://113.62.166.89:8888#🇨🇳%20China
