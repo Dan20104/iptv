@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#🇷🇺%20Russia
-trojan://zsu4Mq3A9J@51.195.254.75:8443?security=tls&sni=uk-02.allhubb.info&allowInsecure=1&type=tcp#🇬🇧%20Great%20Britain
+trojan://zsu4Mq3A9J@vps-8f21b509.vps.ovh.net:8443?security=tls&sni=uk-02.allhubb.info&allowInsecure=1&type=tcp#🇬🇧%20Great%20Britain
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@vps-0d46f655.vps.ovh.net:1080#🇩🇪%20Germany
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.80:443#🇳🇱%20Netherlands
 vless://b9e98405-0454-474e-a5b3-1d6e164ba40d@45.144.51.195:35036?type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇵🇱%20Poland
