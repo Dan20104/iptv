@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺%20Russia
-trojan://zsu4Mq3A9J@vps-8f21b509.vps.ovh.net:8443?security=tls&sni=uk-02.allhubb.info&allowInsecure=1&type=tcp#🇬🇧%20Great%20Britain
+vmess://eyJhZGQiOiJ2bWkyNDg3MzkzLmNvbnRhYm9zZXJ2ZXIubmV0IiwiYWlkIjoiMCIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiYTc1ZjNmOTUtYWQ0ZS00NDk4LWZjNzItZGQ3NDBkZDAyYmZjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDM5NCIsInBzIjoi8J+HrPCfh6cgR3JlYXQgQnJpdGFpbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@vps-0d46f655.vps.ovh.net:1080#🇩🇪%20Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#🇳🇱%20Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#🇵🇱%20Poland
