@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺%20Russia
-vmess://eyJhZGQiOiJ2bWkyNDg3MzkzLmNvbnRhYm9zZXJ2ZXIubmV0IiwiYWlkIjoiMCIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiYTc1ZjNmOTUtYWQ0ZS00NDk4LWZjNzItZGQ3NDBkZDAyYmZjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDM5NCIsInBzIjoi8J+HrPCfh6cgR3JlYXQgQnJpdGFpbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?security=&type=grpc&encryption=none#🇬🇧%20Great%20Britain
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.40:80?security=&type=ws&path=/vless/&host=ov-germany1.09vpn.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#🇳🇱%20Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#🇵🇱%20Poland
