@@ -4,9 +4,9 @@ vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.40:80?security=&type=ws&p
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#🇳🇱%20Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#🇵🇱%20Poland
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#🇫🇷%20France
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=&sni=TABRIZ.NET&alpn=h2,http/1.1&fp=chrome&type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.230:5601#🇺🇸%20United%20States
-trojan://vpn@91.108.241.73:2025?security=&type=ws&path=/&host=vkvd127.mycdn.me#🇫🇮%20Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@38.244.136.218:2222#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 socks://VU4xYzJSNHI6SGl1YWMzUEY%3D@194.55.102.157:64069#🇧🇾%20Belarus
 vmess://eyJhZGQiOiI1LjI1My40MS4xNDciLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNGIxOTkyY2MtOGU3Yy00MDAzLWE0NWYtYTI4YzNlNmY2ZmE4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjc3NTAiLCJwcyI6IvCfh6/wn4e1IEphcGFuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 trojan://vpn@109.120.132.80:2025?security=&type=ws&path=/&host=vkvd127.mycdn.me#🇸🇪%20Sweden
