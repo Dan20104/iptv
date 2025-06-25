@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺%20Russia
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?security=&type=grpc&encryption=none#🇬🇧%20Great%20Britain
+vless://22da734a-cc3b-c30c-df5c-2ec862b0d514@185.164.138.53:8443?security=reality&sni=free-uk.kanye-west.top&fp=chrome&pbk=m5xJ6vp7KWsgfynITMY3a5uGsrkDb76S7WiAlw2owg4&type=tcp&flow=xtls-rprx-vision&encryption=none#🇬🇧%20Great%20Britain
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.40:80?security=&type=ws&path=/vless/&host=ov-germany1.09vpn.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#🇳🇱%20Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#🇵🇱%20Poland
@@ -14,5 +14,5 @@ trojan://installshield@38.180.249.177:8443?security=tls&allowInsecure=1&type=tcp
 vmess://eyJhZGQiOiIxMjAuMjYuNTUuMjI1IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAwMDIiLCJwcyI6IvCfh6jwn4ezIENoaW5hIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI0NS44Mi4yNDYuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNmZjcwMDFlLTNhNzQtNDNlOC1iZmQ4LWE3YWY5NjMwYTU4YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjY1MjEiLCJwcyI6IvCfh7Dwn4e3IFNvdXRoIEtvcmVhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#🇻🇳%20Vietnam
-ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@vmi2172224.contaboserver.net:30607#🇮🇳%20India
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#🇮🇳%20India
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456#🇰🇿%20Kazakhstan
