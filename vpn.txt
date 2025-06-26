@@ -7,7 +7,7 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦%20Canada
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=&sni=TABRIZ.NET&alpn=h2,http/1.1&fp=chrome&type=grpc&encryption=none#🇫🇷%20France
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.230:5601#🇺🇸%20United%20States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@38.244.136.218:2222#🇫🇮%20Finland
-socks://VU4xYzJSNHI6SGl1YWMzUEY%3D@194.55.102.157:64069#🇧🇾%20Belarus
+socks://VU4xYzJSNHI6SGl1YWMzUEY=@194.55.102.157:64069#🇧🇾%20Belarus
 vmess://eyJhZGQiOiI1LjI1My40MS4xNDciLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNGIxOTkyY2MtOGU3Yy00MDAzLWE0NWYtYTI4YzNlNmY2ZmE4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjc3NTAiLCJwcyI6IvCfh6/wn4e1IEphcGFuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNjkuMTUwLjIwOC44MyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4e48J+HqiBTd2VkZW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 trojan://installshield@38.180.249.177:8443?security=tls&allowInsecure=1&type=tcp#🇸🇬%20Singapore
@@ -20,6 +20,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQWRRU3d6cXVPWEQycmdSakpnVGRo@158.255.77.34:35390#🇦🇪%20UAE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE=@185.39.207.60:443#🇬🇷%20Greece
 trojan://vpn@46.29.234.154:2025?type=ws&path=/&host=dns.google.com#🇱🇹%20Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#🇹🇷%20Turkey
+socks://YXNWWkVmV1JSOmRNUEJMYzhuaQ==@154.209.147.154:63669#🇹🇷%20Turkey
 vmess://eyJhZGQiOiI1LjE4Mi4zNy4yMzEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOTM5NTQ3NGMtZTJhMS00NTY1LWJhNTYtYzE2ZTczNzNjNGM0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0OTY2NCIsInBzIjoi8J+Ht/Cfh7QgUm9tYW5pYSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#🇦🇹%20Austria
