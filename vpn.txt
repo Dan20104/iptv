@@ -1,11 +1,11 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺%20Russia
 trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&sni=yourjobnavigator.online&allowInsecure=1&type=tcp#🇬🇧%20Great%20Britain
-vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.40:80?security=&type=ws&path=/vless/&host=ov-germany1.09vpn.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.40:80?security=&type=ws&path=/vless/&host=ov-germany1.09vpn.com&encryption=none#🇩🇪%20Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#🇳🇱%20Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#🇵🇱%20Poland
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦%20Canada
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=&sni=TABRIZ.NET&alpn=h2,http/1.1&fp=chrome&type=grpc&encryption=none#🇫🇷%20France
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.230:5601#🇺🇸%20United%20States
+trojan://0f7070cd-c91d-4532-a51f-56da4f0e94be@172.67.157.254:443?security=tls&sni=uuujjnmm.444752.xyz&alpn=http/1.1&fp=chrome&type=ws&path=/ctHoQlqeZn8pbEUSLppj7jCmY&host=uuujjnmm.444752.xyz#🇺🇸%20United%20States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@38.244.136.218:2222#🇫🇮%20Finland
 socks://VU4xYzJSNHI6SGl1YWMzUEY=@194.55.102.157:64069#🇧🇾%20Belarus
 vmess://eyJhZGQiOiI1LjI1My40MS4xNDciLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNGIxOTkyY2MtOGU3Yy00MDAzLWE0NWYtYTI4YzNlNmY2ZmE4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjc3NTAiLCJwcyI6IvCfh6/wn4e1IEphcGFuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
