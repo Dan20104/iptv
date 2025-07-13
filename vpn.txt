@@ -18,7 +18,7 @@ vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?security=reality&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#🇱🇻%20Latvia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXE=@185.5.38.111:55988#🇳🇴%20Norway
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3anZISEY1U2FGb2I=@78.153.131.96:443#🇱🇹%20Lithuania
-socks://45.89.28.226:12915#🇹🇷%20Turkey
+vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=&type=tcp&encryption=none#🇹🇷%20Türkiye
 vmess://eyJhZGQiOiI1LjE4Mi4zNy4yMzEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOTM5NTQ3NGMtZTJhMS00NTY1LWJhNTYtYzE2ZTczNzNjNGM0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0OTY2NCIsInBzIjoi8J+Ht/Cfh7QgUm9tYW5pYSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.17.221.248:443?security=tls&sni=ad.oldcloud.online&type=ws&path=/&host=ad.oldcloud.online&encryption=none#🇦🇩%20Andorra
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#🇨🇭%20Switzerland
