@@ -26,3 +26,4 @@ vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@91.99.174.151:3037?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#🇨🇾%20Cyprus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#🇨🇿%20Czech%20Republic
 vless://79683a15-ebb2-4881-858e-a50e9553a371@45.142.212.154:443?security=reality&sni=dl.google.com&fp=chrome&pbk=XsYCCmBu2xaOyGvjxzwjNmsqgsziY2vJ7N3JfQBDVXs&sid=e4ebe3ba&type=tcp&flow=xtls-rprx-vision&encryption=none#🇲🇩%20Moldova
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdk1XMG9US1VNaWVrUkpQUDFJUmE4@87.121.86.147:25732#🇪🇪%20Estonia
