@@ -6,7 +6,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#�
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦%20Canada
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=&sni=TABRIZ.NET&alpn=h2,http/1.1&fp=chrome&type=grpc&encryption=none#🇫🇷%20France
 trojan://0f7070cd-c91d-4532-a51f-56da4f0e94be@172.67.157.254:443?security=tls&sni=uuujjnmm.444752.xyz&alpn=http/1.1&fp=chrome&type=ws&path=/ctHoQlqeZn8pbEUSLppj7jCmY&host=uuujjnmm.444752.xyz#🇺🇸%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@38.244.136.218:2222#🇫🇮%20Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#🇫🇮%20Finland
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵%20Japan
 vmess://eyJhZGQiOiIxNjkuMTUwLjIwOC44MyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4e48J+HqiBTd2VkZW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 trojan://installshield@38.180.249.177:8443?security=tls&allowInsecure=1&type=tcp#🇸🇬%20Singapore
@@ -22,9 +22,6 @@ vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=&type
 vmess://eyJhZGQiOiI1LjE4Mi4zNy4yMzEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOTM5NTQ3NGMtZTJhMS00NTY1LWJhNTYtYzE2ZTczNzNjNGM0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0OTY2NCIsInBzIjoi8J+Ht/Cfh7QgUm9tYW5pYSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.17.221.248:443?security=tls&sni=ad.oldcloud.online&type=ws&path=/&host=ad.oldcloud.online&encryption=none#🇦🇩%20Andorra
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#🇨🇭%20Switzerland
-vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@91.99.174.151:3037?security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&type=tcp&encryption=none#🇮🇹%20Italy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#🇨🇾%20Cyprus
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#🇨🇿%20Czech%20Republic
 vless://79683a15-ebb2-4881-858e-a50e9553a371@45.142.212.154:443?security=reality&sni=dl.google.com&fp=chrome&pbk=XsYCCmBu2xaOyGvjxzwjNmsqgsziY2vJ7N3JfQBDVXs&sid=e4ebe3ba&type=tcp&flow=xtls-rprx-vision&encryption=none#🇲🇩%20Moldova
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdk1XMG9US1VNaWVrUkpQUDFJUmE4@87.121.86.147:25732#🇪🇪%20Estonia
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#🇦🇹%20Austria
