@@ -26,3 +26,4 @@ vless://79683a15-ebb2-4881-858e-a50e9553a371@45.142.212.154:443?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdk1XMG9US1VNaWVrUkpQUDFJUmE4@87.121.86.147:25732#🇪🇪%20Estonia
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#🇦🇹%20Austria
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@194.182.79.142:11745?security=reality&sni=sourceforge.net&fp=chrome&pbk=hgaeyKQWo1Cf0fDhXVD2AZKI6DfOhBhjsSSfccW7ADo&sid=26a52325&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#🇨🇿%20Czech%20Republic
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@103.116.7.3:8880?security=&sni=Telegram-channel-WangCai2&allowInsecure=1&type=ws&path=/TelegramU0001F1E8U0001F1F3&host=bitget1.asdasd.click&encryption=none#☁️%20Cloudflare
