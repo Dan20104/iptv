@@ -1,5 +1,7 @@
-vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@45.134.12.5:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&flow=xtls-rprx-vision&encryption=none#🇷🇺%20Russia
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🇬🇧%20United%20Kingdom
+vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@45.134.12.5:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&flow=xtls-rprx-vision&encryption=none#🇷🇺%20Russia%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺%20Russia%202
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🇬🇧%20United%20Kingdom%201
+vless://22da734a-cc3b-c30c-df5c-2ec862b0d514@185.164.138.53:8443?security=reality&sni=free-uk.kanye-west.top&fp=chrome&pbk=m5xJ6vp7KWsgfynITMY3a5uGsrkDb76S7WiAlw2owg4&type=tcp&flow=xtls-rprx-vision&encryption=none#🇬🇧%20United%20Kingdom%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDY3A1T3R6eDBRUzNPS3hwVWVwR2JL@45.144.54.33:34803#🇩🇪%20Germany
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#🇳🇱%20Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#🇵🇱%20Poland
