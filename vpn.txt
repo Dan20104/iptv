@@ -25,7 +25,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#🇫🇮%20Finland%201
 vless://19c939b2-00ef-4c0f-a18b-5fa730e25b84@176.125.254.247:443?security=reality&sni=ya.ru&fp=edge&pbk=AyqfkjWaYstwGIBAYQeHNfe1El7fzuhXaV-iXR6ZxBQ&sid=8de0751c6810f8&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇫🇮%20Finland%202
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵%20Japan%201
-ss://YWVzLTEyOC1nY206MTAwODY@153.121.43.183:10087#🇯🇵%20Japan%202
+ss://YWVzLTEyOC1nY206MTAwODY@160.16.123.124:10087#🇯🇵%20Japan%202
 vless://cb8c1330-7fd4-47e0-80c3-1b75844a913c@192.109.139.121:3630?security=&type=tcp&headerType=http&host=zula.ir&encryption=none#🇸🇪%20Sweden
 trojan://installshield@38.180.249.177:8443?security=tls&allowInsecure=1&type=tcp#🇸🇬%20Singapore
 vmess://eyJhZGQiOiIxODMuMjM2LjUxLjM2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjU5MDAzIiwicHMiOiLwn4eo8J+HsyBDaGluYSAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
