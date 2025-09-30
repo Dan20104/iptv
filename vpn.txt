@@ -1,4 +1,4 @@
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&type=tcp&encryption=none#🇷🇺%20Russia
+vless://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129?security=reality&sni=yahoo.com&fp=chrome&pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&sid=d70393f0ad1c7552&type=tcp&encryption=none#🇷🇺%20Russia
 vless://5342a980-50a4-4daa-9c45-e83f2ebab024@141.227.174.221:18409?security=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#🇬🇧%20United%20Kingdom
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.185:8880?security=&type=grpc&encryption=none#🇩🇪%20Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.233:8080#🇳🇱%20Netherlands
