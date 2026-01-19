@@ -60,20 +60,20 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:0,Первый музыкальный HD
 http://rtmp.one.by:2300
 #EXTINF:0,Сарафан
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9044
+http://tv.ttk.mx:9044
 #EXTINF:0,2х2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:0,Дом кино
 https://flussonic.salomtv.uz/domkino/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кино ТВ
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9046
+http://tv.ttk.mx:9046
 #EXTINF:0,viju TV1000
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9181
+http://tv.ttk.mx:9181
 #EXTINF:0,viju TV1000 Action
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9182
+http://tv.ttk.mx:9182
 #EXTINF:0,viju TV1000 Русское
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9183
+http://tv.ttk.mx:9183
 #EXTINF:0,ТНТ4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
@@ -99,7 +99,7 @@ https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:0,Шансон (Москва)
 https://chanson-video.hostingradio.ru/hls/chansonabr/live.m3u8
 #EXTINF:0,Мульт
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9054
+http://tv.ttk.mx:9054
 #EXTINF:0,Viju Nature
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/161/index.m3u8
 #EXTINF:0,viju Explore HD
@@ -109,7 +109,7 @@ http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/546/index.m3u8
 #EXTINF:0,Europa Plus TV
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/115/index.m3u8
 #EXTINF:0,ТНТ Music
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9023
+http://tv.ttk.mx:9023
 #EXTINF:0,Bridge TV
 https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 #EXTINF:0,ICC TV (Иран)
@@ -145,13 +145,13 @@ http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/236/index.m3u8
 #EXTINF:0,СТС International
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/15228/index.m3u8
 #EXTINF:0,НСТ
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9057
+http://tv.ttk.mx:9057
 #EXTINF:0,Моя планета
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9040
+http://tv.ttk.mx:9040
 #EXTINF:0,СТС Love
-http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/103/index.m3u8
+http://tv.ttk.mx:9104
 #EXTINF:0,Москва 24
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9097
+http://tv.ttk.mx:9097
 #EXTINF:0,Дума ТВ
 https://dumatv.iptv2022.com/index.m3u8
 #EXTINF:0,СТС Kids
@@ -165,7 +165,7 @@ http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/19248/index.m3u8
 #EXTINF:0,Мультиландия
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/5055/index.m3u8
 #EXTINF:0,Ani
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9049
+http://tv.ttk.mx:9049
 #EXTINF:0,Мосфильм. Золотая коллекция
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/7347/index.m3u8
 #EXTINF:0,Русский роман HD
@@ -175,7 +175,7 @@ http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/905/index.m3u8
 #EXTINF:0,Русский детектив
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/907/index.m3u8
 #EXTINF:0,TV XXI
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9067
+http://tv.ttk.mx:9067
 #EXTINF:0,RELAX (Звуки природы)
 http://185.57.68.33:8091/232/index.m3u8
 #EXTINF:0,Феникс+ Кино
@@ -185,25 +185,25 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:0,Ностальгия
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/102/index.m3u8
 #EXTINF:0,Время
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9080
+http://tv.ttk.mx:9080
 #EXTINF:0,Русский иллюзион
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9027
+http://tv.ttk.mx:9027
 #EXTINF:0,Иллюзион+
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9028
+http://tv.ttk.mx:9028
 #EXTINF:0,Усадьба
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9037
+http://tv.ttk.mx:9037
 #EXTINF:0,Ретро
 http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/2018/index.m3u8
 #EXTINF:0,Охота и рыбалка
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9034
+http://tv.ttk.mx:9034
 #EXTINF:0,Драйв
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9039
+http://tv.ttk.mx:9039
 #EXTINF:0,Здоровое ТВ
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9036
+http://tv.ttk.mx:9036
 #EXTINF:0,Живая планета
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9047
+http://tv.ttk.mx:9047
 #EXTINF:0,Техно 24
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9056
+http://tv.ttk.mx:9056
 #EXTINF:0,РБК
 https://online-video.rbc.ru/online/rbctv.m3u8
 #EXTINF:0,РБК HD
@@ -224,4 +224,4 @@ http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/145/index.m3u8
 #EXTINF:0,NickToons HD
 rtmp://vkvsd165.mycdn.me/playback/6807618137081?stkn=Gu3_lm4VkKljpl5npE0SFbR026wjPoBd8TgCI6o_D7M
 #EXTINF:0,Театр (Крым)
-https://cors-anywhere.dapiya.top/http://tv.ttk.mx:9061
+http://tv.ttk.mx:9061
